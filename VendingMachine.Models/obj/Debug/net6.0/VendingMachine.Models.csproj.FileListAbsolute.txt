@@ -1,0 +1,12 @@
+C:\Users\sonia\source\repos\VendingMachine.Models\bin\Debug\net6.0\VendingMachine.Models.deps.json
+C:\Users\sonia\source\repos\VendingMachine.Models\bin\Debug\net6.0\VendingMachine.Models.dll
+C:\Users\sonia\source\repos\VendingMachine.Models\bin\Debug\net6.0\ref\VendingMachine.Models.dll
+C:\Users\sonia\source\repos\VendingMachine.Models\bin\Debug\net6.0\VendingMachine.Models.pdb
+C:\Users\sonia\source\repos\VendingMachine.Models\obj\Debug\net6.0\VendingMachine.Models.csproj.AssemblyReference.cache
+C:\Users\sonia\source\repos\VendingMachine.Models\obj\Debug\net6.0\VendingMachine.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonia\source\repos\VendingMachine.Models\obj\Debug\net6.0\VendingMachine.Models.AssemblyInfoInputs.cache
+C:\Users\sonia\source\repos\VendingMachine.Models\obj\Debug\net6.0\VendingMachine.Models.AssemblyInfo.cs
+C:\Users\sonia\source\repos\VendingMachine.Models\obj\Debug\net6.0\VendingMachine.Models.csproj.CoreCompileInputs.cache
+C:\Users\sonia\source\repos\VendingMachine.Models\obj\Debug\net6.0\VendingMachine.Models.dll
+C:\Users\sonia\source\repos\VendingMachine.Models\obj\Debug\net6.0\ref\VendingMachine.Models.dll
+C:\Users\sonia\source\repos\VendingMachine.Models\obj\Debug\net6.0\VendingMachine.Models.pdb
